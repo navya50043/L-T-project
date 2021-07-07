@@ -1,14 +1,14 @@
-# project
+#### Mini Project
  
-#ATM MACHINE
+#####ATM MACHINE
 
-#INTRODUCTION:
+####INTRODUCTION:
 
-Mission:
+###Mission:
 Building a c program to an ATM machine  by 
 using our C Programming Knowledge.
 
-Vision:
+###Vision:
 Enchancing C programming know how in operating in ATM machines.
 
 ATM SYSTEM
