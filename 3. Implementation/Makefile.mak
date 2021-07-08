@@ -10,7 +10,7 @@ LDFLAGS =
 # Makefile settings - Can be customized.
 APPNAME = atm
 EXT = .c
-SRCDIR = C:\Users\Hi\Documents\GitHub\L-T-project\L-T-project
+SRCDIR = C:\L-T-project-1
 
 OBJDIR = obj
 
