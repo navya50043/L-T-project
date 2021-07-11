@@ -13,21 +13,32 @@ Using an ATM, customers can access their bank deposit or credit accounts in orde
 ## Advantages:
 
 Provide Convenience to Customers. Customers are able to do financial transactions conveniently with the use of ATMs.
+
 Offer 24×7 Service.
+
 Reduce Banks Workload. 
+
 Access to Bank Account from Anywhere.
-Minimizes Transactions Cost. 
+
+Minimizes Transactions Cost.
+
 Charges Fees. 
+
 Limitation on Cash Withdrawal. 
+
 Possibility of Frauds.
  
  
  ## Features:
 
 Withdraw cash. You can withdraw cash at thousands of ATMs, in the UK or abroad.
+
 Pay-in cash or cheques. Paying in your cash or cheques is easy with our self-service tills.
+
 Get a balance or mini statement. Need a balance or mini statement? 
+
 Pay bills or transfer money. 
+
 Change or unlock your PIN.
 
 
