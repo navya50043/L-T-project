@@ -9,6 +9,7 @@ Once their withdrawn was successful, the amount will be debited in their account
 
 # SDLC ACTIVITY BASED LEARNING
 ![image](https://user-images.githubusercontent.com/66767118/124760537-7814bc00-df4e-11eb-9153-2987db6696e2.png)          ![image](https://user-images.githubusercontent.com/66767118/124760573-8236ba80-df4e-11eb-959c-e93f89ae61b8.png)
+[![Contribution Check - Git Inspector](https://github.com/navya50043/L-T-project/actions/workflows/Gitinspector.yml/badge.svg)](https://github.com/navya50043/L-T-project/actions/workflows/Gitinspector.yml)
 
 https://www.code-inspector.com/project/24730/score/svg
 
