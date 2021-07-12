@@ -1,9 +1,8 @@
 
 #include<stdio.h>
-int  main()
-{
-void errorMessage();
+#include"fun.h>
+void errorMessage(){
     printf("+++!!!You selected invalid number!!!+++\n");
 }
-return 0;
-}
+
+
