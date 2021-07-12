@@ -1,5 +1,5 @@
 #include<stdio.h>
-#include<fun.h>
+#include"fun.h"
 
 
 void mainMenu() {
