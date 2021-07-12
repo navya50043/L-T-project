@@ -1,5 +1,6 @@
 
 #include<stdio.h>
+#include"fun.h"
 float moneyDeposit(float balance) {
     float deposit;
     printf("You choose to Deposit a money\n");
