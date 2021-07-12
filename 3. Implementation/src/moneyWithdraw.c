@@ -1,4 +1,5 @@
 #include<stdio.h>
+#include"fun.h"
 float moneyWithdraw(float balance) {
     float withdraw;
     bool back = true;
