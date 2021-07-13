@@ -8,7 +8,7 @@ Enchancing C programming know how in operating in ATM machines.
 The ATM System is the project which is used to access their bank accounts in order to make cash withdrawals. 
 Whenever the user need to make cash withdraws, they can enter their PIN number (personal identification number) and it will display the amount to be withdrawn in the form of 100’s 500’s and 1000’s. 
 Once their withdrawn was successful, the amount will be debited in their account.
-# SDLC ACTIVITY BASED LEARNING
+## SDLC ACTIVITY BASED LEARNING
 [![Contribution Check - Git Inspector](https://github.com/navya50043/L-T-project/actions/workflows/Gitinspector.yml/badge.svg)](https://github.com/navya50043/L-T-project/actions/workflows/Gitinspector.yml)
 [![CI](https://github.com/navya50043/L-T-project/actions/workflows/main.yml/badge.svg)](https://github.com/navya50043/L-T-project/actions/workflows/main.yml)
 ![image](https://user-images.githubusercontent.com/66767118/125390145-fa263a00-e3bf-11eb-8426-f1adcb752288.png)
