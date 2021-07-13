@@ -66,7 +66,7 @@ sanitize_check:
 coverage:$(TEST_SRC)
 	gcc -fprofile-arcs -ftest-coverage $(TEST_SRC) $(INC) -o $(TEST_OUTPUT) $(INCLUDE_LIBS)
 	./$(TEST_OUTPUT)
-	gcov -a calculator_operations.c
+	gcov -a atm.c
 
 # Remove all the built files, invoke by `make clean`
 clean:
