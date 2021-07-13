@@ -13,7 +13,8 @@ Once their withdrawn was successful, the amount will be debited in their account
 
 [![Contribution Check - Git Inspector](https://github.com/navya50043/L-T-project/actions/workflows/Gitinspector.yml/badge.svg)](https://github.com/navya50043/L-T-project/actions/workflows/Gitinspector.yml)
 [![CI](https://github.com/navya50043/L-T-project/actions/workflows/main.yml/badge.svg)](https://github.com/navya50043/L-T-project/actions/workflows/main.yml)
-![image](https://user-images.githubusercontent.com/66767118/125286923-f354e400-e339-11eb-9a4a-614a5354cd25.png) ![image](https://user-images.githubusercontent.com/66767118/125286989-08317780-e33a-11eb-961d-2b902b5c78c8.png)
+![image](https://user-images.githubusercontent.com/66767118/125390145-fa263a00-e3bf-11eb-8426-f1adcb752288.png)
+![image](https://user-images.githubusercontent.com/66767118/125286989-08317780-e33a-11eb-961d-2b902b5c78c8.png)
 
 
 
