@@ -11,7 +11,7 @@ Once their withdrawn was successful, the amount will be debited in their account
 ## SDLC ACTIVITY BASED LEARNING
 [![Contribution Check - Git Inspector](https://github.com/navya50043/L-T-project/actions/workflows/Gitinspector.yml/badge.svg)](https://github.com/navya50043/L-T-project/actions/workflows/Gitinspector.yml)
 [![CI](https://github.com/navya50043/L-T-project/actions/workflows/main.yml/badge.svg)](https://github.com/navya50043/L-T-project/actions/workflows/main.yml)
-![image](https://user-images.githubusercontent.com/66767118/125390145-fa263a00-e3bf-11eb-8426-f1adcb752288.png)
+![image](https://user-images.githubusercontent.com/66767118/125445014-03ba041a-0537-4ea3-8883-10244dfc8724.png)
 ![image](https://user-images.githubusercontent.com/66767118/125286989-08317780-e33a-11eb-961d-2b902b5c78c8.png)
 ![image](https://user-images.githubusercontent.com/66767118/125435713-10c3c11c-844a-41ad-bec7-ff9efd9ebb29.png)
 
