@@ -1,7 +1,5 @@
-# TEST PLAN:
-
+# TEST PLAN
 ##  High level test plan
-
 | **Test ID** | **Description**                                              | **Expected Input** | **Expected Output** | **Actual Output** |**Type Of Test**  |    
 |-------------|--------------------------------------------------------------|------------|-------------|----------------|------------------|
 |  H_01       |Check if the User selects an option from the available choices, login with correct pin number  and if pin number is wrong show as invalid pin entered.|User's choice | SUCCESS| SUCCESS|Requirement based |
@@ -13,10 +11,7 @@
 |  H_07       |The user have to check the balance after withdrawing the amonunt that how much amount felt in our account |User's choice | SUCCESS| SUCCESS|Requirement based  |
 |  H_08       |Check if the system asks the user for repeating the process and exits the system when choosed |User's choice | SUCCESS| SUCCESS|Scenario based |
 
-
-
 ## Low level test plan
-
 | **Test ID** | **Description**                                              | **Expected Input** | **Expected Output** | **Actual Output** |**Type Of Test**  |    
 |-------------|--------------------------------------------------------------|------------|-------------|----------------|------------------|
 |  L_01       |When entering the pin number check ansd enter the correct pin number |User's choice| Invoke the process| SUCCESS|Scenario based |
