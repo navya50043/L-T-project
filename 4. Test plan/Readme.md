@@ -1,5 +1,5 @@
-# TEST PLAN
-##  High level test plan
+## TEST PLAN
+## High level test plan
 | **Test ID** | **Description**                                              | **Expected Input** | **Expected Output** | **Actual Output** |**Type Of Test**  |    
 |-------------|--------------------------------------------------------------|------------|-------------|----------------|------------------|
 |  H_01       |Check if the User selects an option from the available choices, login with correct pin number  and if pin number is wrong show as invalid pin entered.|User's choice | SUCCESS| SUCCESS|Requirement based |
